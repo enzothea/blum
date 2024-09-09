@@ -1,1 +1,1 @@
-
+query_id=AAGFttshAAAAAIW22yGBAuHM&user=%7B%22id%22%3A568047237%2C%22first_name%22%3A%22%F0%9F%90%A4%20EnzoXr%20%F0%9F%8D%85%F0%9F%86%93%F0%9F%A6%B4%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22sopyan_amkg%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725862604&hash=a6edcd514fbbbd17176319f59e5d4d844e2875cefaab835a6068983a13981e1a
